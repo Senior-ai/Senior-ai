@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+https://github.com/Senior-ai/Senior-ai/assets/68730456/422a3295-e665-4f28-91df-2cf95e7ea6fd
+
+
+
 <!--
 **Senior-ai/Senior-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
