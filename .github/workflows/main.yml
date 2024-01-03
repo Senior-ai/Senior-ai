@@ -19,6 +19,8 @@ jobs:
           filename: metrics.plugin.topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          plugin_topics_mode: mastered
+          plugin_topics_sort: activity
           plugin_topics: yes
           plugin_topics_limit: 12
           # filename: metrics.plugin.achievements.compact.svg
