@@ -7,7 +7,7 @@ Passionate about crafting robust and scalable web and mobile applications. Profi
 - 💬 Ask me about cooking. Damn I really do love my lasagna
 
 ![Metrics](/metrics.plugin.achievements.compact.svg)
-
+![Metrics](/metrics.plugin.topics.svg)
 <!--
 **Senior-ai/Senior-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
