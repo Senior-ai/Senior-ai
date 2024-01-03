@@ -6,7 +6,7 @@ Passionate about crafting robust and scalable web and mobile applications. Profi
 - 👯 I’m looking to collaborate on any cool projects you are working on, especially if its real estate related
 - 💬 Ask me about cooking. Damn I really do love my lasagna
 
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.plugin.achievements.compact.svg)
 
 <!--
 **Senior-ai/Senior-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
