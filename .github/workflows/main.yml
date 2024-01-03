@@ -1,4 +1,4 @@
-name: Compact display
+name: Recently used
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -16,9 +16,12 @@ jobs:
     steps:
      - uses: lowlighter/metrics@latest
        with:
+        filename: metrics.plugin.languages.recent.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
         plugin_languages: yes
-        plugin_languages_indepth: yes
-        commits_authoring: firstname lastname, username, username@users.noreply.github.com
+        plugin_languages_sections: recently-used
+        plugin_languages_details: bytes-size, percentage
           # filename: metrics.plugin.achievements.compact.svg
           # token: ${{ secrets.METRICS_TOKEN }}
           # base: ""
