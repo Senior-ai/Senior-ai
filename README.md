@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-https://github.com/Senior-ai/Senior-ai/assets/68730456/422a3295-e665-4f28-91df-2cf95e7ea6fd
-
 - 🔭 I’m currently working on different open-sourced projects
 - 🌱 I’m currently learning different JS frameworks such as typescript, nextjs and vitejs.
 - 👯 I’m looking to collaborate on any cool projects you are working on, especially if its real estate related
